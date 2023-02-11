@@ -128,8 +128,8 @@ python3 (3.4.3)
 HBnB - version 9.6
 
 ### Acknowledgements :raised_hands:
-To all the peers that contribuited with their knowledge
+To all the peers that contributed
 
 ### Authors :fountain_pen:
-* Ekomobong Cletus Etim - @fynesticon
-* Jamaal Okhuosami - @Qaadaffi
+* Balogun Zacchaeus - @lordzac
+* Husseini Chado - @Saddamzy001
